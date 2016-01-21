@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Brazilian developer
+Copyright (c) 2016 Hemerson Vianna
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
