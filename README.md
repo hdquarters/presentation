@@ -3,8 +3,6 @@
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![issues](https://img.shields.io/github/issues/brazilian-dev/the-project.svg?style=flat-square)](https://github.com/brazilian-dev/the-project/issues)
 
-![Mascot](source/img/mascot.svg)
-
 ## Contributing
 
 - Fork it!
