@@ -1,0 +1,19 @@
+{
+  "name": "presentation",
+  "version": "0.1.0",
+  "description": "Presentation",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/descco-headquarters/presentation.git"
+  },
+  "keywords": [
+    "presentation"
+  ],
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/descco-headquarters/presentation/issues"
+  },
+  "homepage": "https://github.com/descco-headquarters/presentation#readme"
+}
