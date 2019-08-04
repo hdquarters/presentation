@@ -5,15 +5,15 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/descco-headquarters/presentation.git"
+    "url": "git+https://github.com/org-descco/presentation.git"
   },
   "keywords": [
     "presentation"
   ],
-  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.io)",
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/descco-headquarters/presentation/issues"
+    "url": "https://github.com/org-descco/presentation/issues"
   },
-  "homepage": "https://github.com/descco-headquarters/presentation#readme"
+  "homepage": "https://github.com/org-descco/presentation#readme"
 }
