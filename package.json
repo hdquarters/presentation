@@ -5,7 +5,7 @@
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/org-descco/presentation.git"
+    "url": "git+https://github.com/hdquarters/presentation.git"
   },
   "keywords": [
     "presentation"
@@ -13,7 +13,7 @@
   "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/org-descco/presentation/issues"
+    "url": "https://github.com/hdquarters/presentation/issues"
   },
-  "homepage": "https://github.com/org-descco/presentation#readme"
+  "homepage": "https://github.com/hdquarters/presentation#readme"
 }
